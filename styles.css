@@ -41,3 +41,23 @@ font-size: 18px;
     text-align: center;
     margin: 20px 0;
 }
+
+/*table*/
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+table,td,th{
+    border:2px solid #333;
+}
+th{
+    text-align: center;
+    background: #FFDEAD;
+}
+td {
+    text-align: left;
+    background: #FFF8DC;
+}
+th,td{
+    padding: 16px;
+}
